@@ -6,7 +6,7 @@ answers from a collection of documents.
 
 # Datasets
 
-1. 100LLM Papers:S
+1. 100LLM Papers:
 
 - Can be downloaded here: "LLM_papers"
 - Place PDFs in a folder called : https://www.kaggle.com/datasets/ruchi798/100-llm-papers-to-explore
